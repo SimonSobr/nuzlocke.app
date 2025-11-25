@@ -17,8 +17,7 @@
 .pkm.pkm-hoennian {
   filter: contrast(1.5);
   transform: translateY(-5px);
-  /** missing file :( */
-  /* background-image: url(https://img.nuzlocke.app/assets/pokemon-blazingem-v1.png) !important; */
+  background-image: url(https://img.nuzlocke.app/assets/pokemon-blazingem-v1.png) !important;
 }
 
 .pkm.pkm-mallarki {
