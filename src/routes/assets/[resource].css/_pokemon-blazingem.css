@@ -17,242 +17,241 @@
 .pkm.pkm-hoennian {
   filter: contrast(1.5);
   transform: translateY(-5px);
-  background-image: url(../img/pokemon-blazingem-v1.png) !important;
 }
 
 .pkm.pkm-mallarki {
   width: 32px;
   height: 32px;
-  background-position: -64px -128px;
+  background-position: -1149px -528px;
 }
 .pkm.pkm-muramoth {
   width: 32px;
   height: 32px;
-  background-position: -96px -128px;
+  background-position: -1181px -528px;
 }
 .pkm.pkm-zangaro {
   width: 32px;
   height: 32px;
-  background-position: -32px -0;
+  background-position: -1117px -400px;
 }
 .pkm.pkm-slingray {
   width: 32px;
   height: 32px;
-  background-position: -96px -0;
+  background-position: -1181px -400px;
 }
 .pkm.pkm-silviper {
   width: 32px;
   height: 32px;
-  background-position: -32px -96px;
+  background-position: -1117px -496px;
 }
 .pkm.pkm-regigigas {
   width: 32px;
   height: 32px;
-  background-position: -0 -128px;
+  background-position: -1085px -528px;
 }
 .pkm.pkm-oreon {
   width: 32px;
   height: 32px;
-  background-position: -32px -128px;
+  background-position: -1117px -528px;
 }
 .pkm.pkm-lucemoth {
   width: 32px;
   height: 32px;
-  background-position: -160px -32px;
+  background-position: -1245px -432px;
 }
 .pkm.pkm-goolossal {
   width: 32px;
   height: 32px;
-  background-position: -160px -64px;
+  background-position: -1245px -464px;
 }
 .pkm.pkm-drilladin {
   width: 32px;
   height: 32px;
-  background-position: -128px -160px;
+  background-position: -1213px -560px;
 }
 .pkm.pkm-drasparath {
   width: 32px;
   height: 32px;
-  background-position: -192px -64px;
+  background-position: -1277px -464px;
 }
 .pkm.pkm-chrysalix {
   width: 32px;
   height: 32px;
-  background-position: -192px -160px;
+  background-position: -1277px -560px;
 }
 .pkm.pkm-crawb {
   width: 32px;
   height: 32px;
-  background-position: -0 -192px;
+  background-position: -1085px -592px;
 }
 .pkm.pkm-brawlfrog {
   width: 32px;
   height: 32px;
-  background-position: -64px -192px;
+  background-position: -1149px -592px;
 }
 .pkm.pkm-armored-mewtwo {
   width: 32px;
   height: 32px;
-  background-position: -128px -192px;
+  background-position: -1213px -592px;
 }
 
 .pkm.pkm-venonat-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -0 -0;
+  background-position: -1085px -400px;
 }
 .pkm.pkm-ursaring-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -0 -32px;
+  background-position: -1085px -432px;
 }
 .pkm.pkm-tynamo-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -32px -32px;
+  background-position: -1117px -432px;
 }
 .pkm.pkm-toxapex-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -64px -0;
+  background-position: -1149px -432px;
 }
 .pkm.pkm-tentacruel-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -64px -32px;
+  background-position: -1149px -432px;
 }
 .pkm.pkm-tentacool-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -0 -64px;
+  background-position: -1085px -464px;
 }
 .pkm.pkm-teddiursa-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -32px -64px;
+  background-position: -1117px -464px;
 }
 .pkm.pkm-tangrowth-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -64px -64px;
+  background-position: -1149px -464px;
 }
 .pkm.pkm-tangela-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -96px -32px;
+  background-position: -1181px -432px;
 }
 .pkm.pkm-solosis-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -96px -64px;
+  background-position: -1181px -464px;
 }
 .pkm.pkm-skarmory-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -0 -96px;
+  background-position: -1085px -496px;
 }
 .pkm.pkm-shuckle-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -64px -96px;
+  background-position: -1149px -496px;
 }
 .pkm.pkm-onix-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -96px -96px;
+  background-position: -1181px -496px;
 }
 .pkm.pkm-reuniclus-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -128px -0;
+  background-position: -1213px -400px;
 }
 .pkm.pkm-pawniard-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -128px -32px;
+  background-position: -1213px -432px;
 }
 .pkm.pkm-seel-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -128px -64px;
+  background-position: -1213px -464px;
 }
 .pkm.pkm-pinsir-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -128px -96px;
+  background-position: -1213px -496px;
 }
 .pkm.pkm-mareanie-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -128px -128px;
+  background-position: -1213px -528px;
 }
 .pkm.pkm-maractus-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -160px -0;
+  background-position: -1245px -400px;
 }
 .pkm.pkm-emolga-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -160px -96px;
+  background-position: -1245px -496px;
 }
 .pkm.pkm-lanturn-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -160px -128px;
+  background-position: -1245px -528px;
 }
 .pkm.pkm-eelektrik-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -0 -160px;
+  background-position: -1085px -560px;
 }
 .pkm.pkm-duosion-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -32px -160px;
+  background-position: -1117px -560px;
 }
 .pkm.pkm-eelektross-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -64px -160px;
+  background-position: -1149px -560px;
 }
 .pkm.pkm-dunsparce-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -96px -160px;
+  background-position: -1181px -560px;
 }
 .pkm.pkm-dreepy-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -160px -160px;
+  background-position: -1245px -560px;
 }
 .pkm.pkm-dragapult-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -192px -0;
+  background-position: -1277px -400px;
 }
 .pkm.pkm-drakloak-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -192px -32px;
+  background-position: -1277px -432px;
 }
 .pkm.pkm-dewgong-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -192px -96px;
+  background-position: -1277px -496px;
 }
 .pkm.pkm-dodrio-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -192px -128px;
+  background-position: -1277px -528px;
 }
 .pkm.pkm-chinchou-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -32px -192px;
+  background-position: -1117px -592px;
 }
 .pkm.pkm-bisharp-hoenn {
   width: 32px;
   height: 32px;
-  background-position: -96px -192px;
+  background-position: -1181px -592px;
 }
