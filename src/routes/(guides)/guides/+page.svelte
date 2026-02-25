@@ -7,6 +7,8 @@
   import { toSlug } from '$lib/utils/string'
   import { IMG } from '$lib/utils/rewrites'
 
+  import { Logo } from '$lib/components/core'
+
   const title = `Nuzlocke Tracker | Pokémon Nuzlocke Guides`
   const description = `Find guides to Nuzlocking every Pokémon game from Generation 1 to 8 as well as some of the most popular Rom Hacks.`
 </script>
@@ -38,13 +40,12 @@
     >
       <div>
         <div>
-          <Picture
-            src='{IMG}{logo}'
-            alt='{title} Logo'
-            role=presentation
-            aspect=180x90
-            class=drop-shadow-mark
-          />
+            <Logo
+              logo="{logo}"
+              alt={title + ' logo'}
+              role="presentation"
+              aspect=180x90
+              class=drop-shadow-mark/>
         </div>
         <div>
           <h2>Pokémon {title} Nuzlocke Guide</h2>

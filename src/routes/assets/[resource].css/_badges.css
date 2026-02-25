@@ -1,5 +1,5 @@
 .pkb {
-  background-image: url('../img/badges-v2.png') !important;
+  background-image: url('/assets/img/badges-v2.png') !important;
   display: inline-block;
   vertical-align: middle;
   image-rendering: pixelated;

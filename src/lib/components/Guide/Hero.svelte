@@ -63,7 +63,7 @@
 
       <div>
         <Picture
-          src="{IMG}{logo}"
+          logo="{logo}"
           alt="{title} Logo"
           role="presentation"
           loading="eager"
