@@ -1,4 +1,17 @@
 {
+  "blindingwhite2": {
+    "pid": "blindingwhite2",
+    "patchId": "blindingwhite2",
+    "lid": "blindingwhite2",
+    "logo": "white-2-logo",
+    "title": "Blinding White 2",
+    "gen": "romhack",
+    "patched": true,
+    "supported": true,
+    "region": "unova",
+    "lastUpdated": "11th March 2026",
+    "difficulty": ["Normal:_n", "Challenge:_c"]
+  },
   "newgen": {
     "pid": "newgen",
     "lid": "newgen",
