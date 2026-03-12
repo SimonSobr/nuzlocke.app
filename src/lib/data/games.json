@@ -1,4 +1,16 @@
 {
+"ib2": {
+    "pid": "ib2",
+    "patchId": "ib2",
+    "lid": "ib2",
+    "logo": "black-2-logo",
+    "title": "Infinite Black 2",
+    "gen": "romhack",
+    "patched": true,
+    "supported": true,
+    "region": "unova"
+  },
+  
   "blindingwhite2": {
     "pid": "blindingwhite2",
     "patchId": "blindingwhite2",
