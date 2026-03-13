@@ -28,7 +28,8 @@
 
   </p>
 
-
+  <span class='inline-flex items-center mb-2'>Modified version by<strong class=ml-1>Simon</strong></span>
+  <br />
   <span class='inline-flex items-center mb-2'>Made with <Icon inline={true} icon={Heart} class='mx-1 fill-current text-red-500' /> by<strong class=ml-1>Domtronn</strong></span>
 	<br/>
   <span class='inline-flex items-center mb-2'>Maintained with <Icon inline={true} icon={Heart} class='mx-1 fill-current text-red-500' /> by<strong class=ml-1>Bassel</strong></span>
